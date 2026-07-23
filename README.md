@@ -21,7 +21,7 @@ I am a third-year BS-MS student at IISER Pune, with a primary interest in astrop
 **Domain-Specific Libraries:** `Astropy`, `SunPy`
 
 ## 🚀 Featured Projects
-* **[Halo Density Predictor](https://github.com/manthan-4949/halo-density-predictor)** *(Update link once created)*: A machine learning model designed to predict halo density fields directly from dark matter density fields.
+* **[Halo Density Predictor](https://github.com/manthan-4949/Halo-density-3D-Unet.git)** *(Update link once created)*: A machine learning model designed to predict halo density fields directly from dark matter density fields.
 
 ## 📊 GitHub Stats
 
